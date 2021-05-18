@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to "garyfrompcc" GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/garyfrompcc/garyfrompcc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+1. Tribute page:https://github.com/garyfrompcc/cis192_final_project_GarySum
+2. Form page: https://github.com/garyfrompcc/cis192_final_project_GarySum
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
+
+
+
+
 
 ### Markdown
 
